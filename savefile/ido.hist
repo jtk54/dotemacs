@@ -1,0 +1,35 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/citest/" . "gcp_testing/")
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/" . "citest/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/citest/gcp_testing/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/spinnaker/unittest/" (22675 31813 767449 80000) "source_annotator_test.py" "yaml_util_test.py" "configurator_test.py" "validate_configuration_test.py" "abstract_packer_builder_test.py" "./" "../")
+
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/spinnaker/dev/" (22655 46365 467920 977000) ".#annotate_source.py" "refresh_source.py" "build_google_image.sh" "stop_dev.sh" "__init__.py" "build_release.sh" "install_development.sh" "build_google_image.packer" "create_google_dev_vm.py" "bootstrap_dev.sh" "create_google_dev_vm.sh" "run_dev.sh" "dev_runner.py" "refresh_source.sh" "./" "../" "build_release.py" "annotate_source.py" "jenkins_task_validate_image.sh")
+
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/spinnaker/spinnaker_system/" (22490 63274 966186 88000) "google_quota_test.pyc" "google_kato_test.py" "google_server_group_test.py" "google_http_lb_test.py" "aws_smoke_test.py" "google_front50_test.py" "bake_and_deploy_test.py" "google_smoke_test.py" "kube_smoke_test.py" "aws_kato_test.py" "./" "../")
+
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/citest/gcp_testing/" (22370 59688 566037 750000) "gce_util.pyc" "gcs_contract.pyc" "__init__.py" "gcs_contract.py" "gce_contract.pyc" "gsutil_agent.pyc" "gcloud_agent.py" "gce_contract.py" "gsutil_agent.py" "google_idp_session.pyc" "gce_util.py" "./" "../" "gcloud_agent.pyc" "__init__.pyc")
+
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/citest/" (22366 60054 923525 791000) "service_testing/" "__init__.py" "json_contract/" "base/" "gcp_testing/" "reporting/" "json_predicate/" "aws_testing/" "./" "../" "__init__.pyc" "kube_testing/")
+
+ ("/usr/local/google/home/jacobkiefer/spinnaker_projects/citest/" (22368 22979 259230 258000) "pylint.rc" "overview.md" "CONTRIBUTING" "README.md" "setup.py" "citest/" "google_smoke_test.log" "requirements.txt" "spinnaker/" ".gitignore" ".git/" "./" "../" "LICENSE" "tests/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

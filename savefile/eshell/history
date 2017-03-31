@@ -1,0 +1,53 @@
+gradlew showMeCache
+./gradlew showMeCache
+ipython
+python
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+PYTHONPATH=../../pylib python ../../unittest/yaml_util_test.py 
+pwd
+ls
+python install_jenkins_plugins.py 
+clear
+clear
+clr
+clear
+python install_jenkins_plugins.py 
+python install_jenkins_plugins.py 
+python install_jenkins_plugins.py 
+./derp.sh 
+chmod +x derp.sh
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+./derp.sh 
+sudo apt-get install python-bs4

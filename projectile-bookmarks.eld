@@ -1,0 +1,1 @@
+("~/spinnaker_projects/spinnaker/" "~/spinnaker_projects/deck/" "~/spinnaker_projects/google-halyard-private/" "~/spinnaker_projects/clouddriver/" "~/spinnaker_projects/citest/" "~/changelog/changelog-test/" "~/changelog/release/" "~/python_playground/spinnaker/" "~/python_playground/" "~/python_playground/citest/" "/google/src/cloud/" "~/github/gate/" "~/spinnaker/")
